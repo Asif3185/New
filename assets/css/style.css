@@ -12,12 +12,16 @@ body{
         text-align: center;
         align-items: start;
     }
-    .Hero-img{
-        font-size: 80px;
-    }
-    .line-style-box{
-
-    }
+  .text-start{
+  padding-bottom: 0px;
+  }
+  .social-icon{
+      float:none;
+      align-items: center;
+  }
+  .highlight{
+      padding:0px;
+  }
 }
 
 /* Headings */
