@@ -12,10 +12,14 @@ body{
         text-align: center;
         align-items: start;
     }
-    .Hero-img {
+    .Hero-img{
         font-size: 80px;
     }
+    .line-style-box{
+
+    }
 }
+
 /* Headings */
 h1 {font-family:'SF Pro Display', sans-serif;
     font-size: 112px;
@@ -171,11 +175,11 @@ P {font-family: 'SF Pro Display', sans-serif;
     padding-bottom: 20px;
 }
 .Hero-img{
-    font-family:'SF Pro Display', sans-serif;
-    font-size: 112px;
-    font-weight: 700;
-    line-height: 112px;
-    display: inline-block;
+    /*font-family:'SF Pro Display', sans-serif;*/
+    /*font-size: 112px;*/
+    /*font-weight: 700;*/
+    /*line-height: 112px;*/
+    /*display: inline-block;*/
     background-image: url('/New/assets/images/svg/bg-icon-3.svg');
     background-repeat: no-repeat;
     background-position: bottom; /* This will center the image */
