@@ -13,14 +13,16 @@ body{
         align-items: start;
     }
   .text-start{
-  padding-bottom: 0px;
+  margin: 0;
+      padding: 0;
   }
   .social-icon{
       float:none;
       align-items: center;
   }
-  .highlight{
-      padding:0px;
+  .highlight {
+      padding:0;
+      margin: auto;
   }
 }
 
