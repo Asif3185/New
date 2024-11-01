@@ -200,8 +200,6 @@ P {font-family: 'SF Pro Display', sans-serif;
     background-repeat: no-repeat;
     background-position: bottom; /* This will center the image */
     background-size: contain; /* Adjusts image to fit inside the element */
-
-
 }
 .line-style{
     font-family:'SF Pro Display', sans-serif;
