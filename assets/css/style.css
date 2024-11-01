@@ -12,17 +12,10 @@ body{
         text-align: center;
         align-items: start;
     }
-    /* .searchbox-wrap{
-        display: none;
-    } */
-    /* .social-icon{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-        margin: auto;
-        float:none;
-    }  */
+    .Hero-img{
+        font-family:'SF Pro Display', sans-serif;
+        font-size: 80px;
+    }
 }
 /* Headings */
 h1 {font-family:'SF Pro Display', sans-serif;
