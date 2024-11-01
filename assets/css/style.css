@@ -188,30 +188,30 @@ P {font-family: 'SF Pro Display', sans-serif;
 
 }
 .line-style-box {
-    font-family:'SF Pro Display', sans-serif;
-    font-size: 56px;
-    font-weight: bold;
-    display: inline-block;
+    /*font-family:'SF Pro Display', sans-serif;*/
+    /*font-size: 56px;*/
+    /*font-weight: bold;*/
+    /*display: inline-block;*/
     background-image: url('/New/assets/images/svg/bg-icon-4.svg');
     background-repeat: no-repeat;
     background-position: bottom; /* This will center the image */
     background-size: contain; /* Adjusts image to fit inside the element */
 }
 .line-style{
-    font-family:'SF Pro Display', sans-serif;
-    font-size: 56px;
-    font-weight: bold;
-    display: inline-block;
+    /*font-family:'SF Pro Display', sans-serif;*/
+    /*font-size: 56px;*/
+    /*font-weight: bold;*/
+    /*display: inline-block;*/
     background-image: url('/New/assets/images/svg/bg-icon-2.svg');
     background-repeat: no-repeat;
     background-position: 50% 99%;
 
 }
 .highlight {
-    font-family:'SF Pro Display', sans-serif;
-    font-size: 56px;
-    font-weight: bold;
-    display: inline-block;
+    /*font-family:'SF Pro Display', sans-serif;*/
+    /*font-size: 56px;*/
+    /*font-weight: bold;*/
+    /*display: inline-block;*/
     background-image: url('/New/assets/images/svg/bg-icon-1.svg');
     background-repeat: no-repeat;
     /*background-position: 50% 50%;*/
