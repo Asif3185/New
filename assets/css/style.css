@@ -12,8 +12,7 @@ body{
         text-align: center;
         align-items: start;
     }
-    .Hero-img{
-        font-family:'SF Pro Display', sans-serif;
+    .Hero-img {
         font-size: 80px;
     }
 }
