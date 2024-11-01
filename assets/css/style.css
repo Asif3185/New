@@ -184,7 +184,7 @@ P {font-family: 'SF Pro Display', sans-serif;
     font-weight: 700;
     line-height: 112px;
     display: inline-block;
-    background-image: url('/combine-project/assets/images/svg/bg-icon-3.svg');
+    background-image: url('/new/assets/images/svg/bg-icon-3.svg');
     background-repeat: no-repeat;
     background-position: bottom; /* This will center the image */
     background-size: contain; /* Adjusts image to fit inside the element */
@@ -196,7 +196,7 @@ P {font-family: 'SF Pro Display', sans-serif;
     font-size: 56px;
     font-weight: bold;
     display: inline-block;
-    background-image: url('/combine-project/assets/images/svg/bg-icon-4.svg');
+    background-image: url('/new/assets/images/svg/bg-icon-4.svg');
     background-repeat: no-repeat;
     background-position: bottom; /* This will center the image */
     background-size: contain; /* Adjusts image to fit inside the element */
@@ -208,7 +208,7 @@ P {font-family: 'SF Pro Display', sans-serif;
     font-size: 56px;
     font-weight: bold;
     display: inline-block;
-    background-image: url('/combine-project/assets/images/svg/bg-icon-2.svg');
+    background-image: url('/new/assets/images/svg/bg-icon-2.svg');
     background-repeat: no-repeat;
     background-position: 50% 99%;
 
