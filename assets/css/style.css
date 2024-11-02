@@ -12,8 +12,8 @@ body{
         text-align: center;
         align-items: start;
     }
-  .text-start{
-  margin: 0;
+  .text-starts{
+      margin: 0 auto;
       padding: 0;
   }
   .social-icon{
@@ -99,6 +99,9 @@ P {font-family: 'SF Pro Display', sans-serif;
 
 
 }
+.text-starts{
+    padding-bottom: 190px;
+}
 .btn-text:hover{
     background: #FF60E6;
 }
@@ -148,10 +151,10 @@ P {font-family: 'SF Pro Display', sans-serif;
     border: 1px solid;
     border: #1F392C;
 }
-.custom-size{
-    width: 40px;
-    height: 40px;
-}
+/*.custom-size{*/
+/*    width: 40px;*/
+/*    height: 40px;*/
+/*}*/
 .custom-style{
     width: 80px;
     height: 80px;
