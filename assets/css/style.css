@@ -36,9 +36,7 @@ body{
    .responsive{
         line-height: normal;
         font-size: 50px;
-        
     }
-    
     h1 {
         font-size: 64px;
         line-height: 70px;
@@ -64,29 +62,20 @@ body{
         line-height: 24px;
         padding: 0 10px; /* Adds some side padding for better spacing */
     }
-}
-    
-    
-  .highlight {
-   background-image: none !important;
-  }
-  .Hero-img{
-    display: inline-block;
-    background-image: url('/New/assets/images/svg/bg-icon-3.svg');
-    background-repeat: no-repeat;
-    background-position: bottom; 
-   
-
-
-}
-.Hero-img {
+    .Hero-img {
+        background-size: 80%; /* Adjust as needed */
+    }
+    .highlight  {
     background-size: 80%; /* Adjust as needed */
+    } 
+    .line-style-box {
+        background-size: 80%; /* Adjust as needed */
+    }
+    .line-style{
+        background-size: 80%; /* Adjust as needed */
+    }
 }
-}
-
-
-
-
+    
 /* Headings */
 h1 {font-family:'SF Pro Display', sans-serif;
     font-size: 112px;
