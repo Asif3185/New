@@ -275,6 +275,7 @@ P {font-family: 'SF Pro Display', sans-serif;
     /*font-size: 112px;*/
     /*font-weight: 700;*/
     /*line-height: 112px;*/
+    background-size: 100%; /* Adjust as needed */
     display: inline-block;
     background-image: url('/New/assets/images/svg/bg-icon-3.svg');
     background-repeat: no-repeat;
@@ -287,6 +288,7 @@ P {font-family: 'SF Pro Display', sans-serif;
     /*font-family:'SF Pro Display', sans-serif;*/
     /*font-size: 56px;*/
     /*font-weight: bold;*/
+    background-size: 100%; /* Adjust as needed */
     display: inline-block;
     background-image: url('/New/assets/images/svg/bg-icon-4.svg');
     background-repeat: no-repeat;
@@ -297,6 +299,7 @@ P {font-family: 'SF Pro Display', sans-serif;
     /*font-family:'SF Pro Display', sans-serif;*/
     /*font-size: 56px;*/
     /*font-weight: bold;*/
+    background-size: 100%; /* Adjust as needed */
     display: inline-block;
     background-image: url('/New/assets/images/svg/bg-icon-2.svg');
     background-repeat: no-repeat;
@@ -307,6 +310,7 @@ P {font-family: 'SF Pro Display', sans-serif;
     /*font-family:'SF Pro Display', sans-serif;*/
     /*font-size: 56px;*/
     /*font-weight: bold;*/
+    background-size: 100%; /* Adjust as needed */
      display: inline-block;
     background-image: url('/New/assets/images/svg/bg-icon-1.svg');
     background-repeat: no-repeat;
