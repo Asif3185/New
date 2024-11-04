@@ -227,7 +227,8 @@ P {font-family: 'SF Pro Display', sans-serif;
     background-position: 50% 50%;
     padding-right: 15px;
     padding-left: 5px;
-} */ */
+} */ 
+ 
 @media  (min-width: 768px) {
     .h1{
         line-height: normal;
