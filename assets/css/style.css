@@ -23,6 +23,7 @@ body{
   .highlight {
       padding:0;
       margin: auto;
+      overflow: hidden;
   }
 }
 
