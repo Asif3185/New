@@ -217,17 +217,17 @@ P {font-family: 'SF Pro Display', sans-serif;
     background-position: 50% 99%;
 
 }
-/* .highlight {
+.highlight {
     /*font-family:'SF Pro Display', sans-serif;*/
     /*font-size: 56px;*/
     /*font-weight: bold;*/
-    /* display: inline-block;
+     display: inline-block;
     background-image: url('/New/assets/images/svg/bg-icon-1.svg');
     background-repeat: no-repeat;
     background-position: 50% 50%;
     padding-right: 15px;
-    padding-left: 5px;
-} */ 
+    padding-left: 5px; */
+} 
 
 @media  (min-width: 768px) {
     .h1{
