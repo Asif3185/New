@@ -12,7 +12,7 @@ body{
         text-align: center;
         align-items: start;
     }
-  .text-starts{
+  .paragraph{
       margin: 0 auto;
       padding: 0 !important;
   }
@@ -99,7 +99,7 @@ P {font-family: 'SF Pro Display', sans-serif;
 
 
 }
-.text-starts{
+.paragraph{
     padding-bottom: 190px;
 }
 .btn-text:hover{
