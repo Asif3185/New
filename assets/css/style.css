@@ -36,6 +36,7 @@ body{
    .responsive{
         line-height: normal;
         font-size: 50px;
+        color: #1F392C;
     }
     h1 {
         font-size: 64px;
