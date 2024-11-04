@@ -79,7 +79,7 @@ body{
         background-size: 80%; /* Adjust as needed */
     }
     .img-fluid {
-        max-width: 80%; /* Reduce the width slightly to add padding */
+        max-width: 50%; /* Reduce the width slightly to add padding */
         margin: 0 auto; /* Center the image */
     }
 
