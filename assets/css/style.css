@@ -39,27 +39,27 @@ body{
         color: #1F392C;
     }
     h1 {
-        font-size: 64px;
-        line-height: 70px;
+        font-size: 64px !important;
+        line-height: 70px !important;
         }
     h2 {
-        font-size: 36px;
+        font-size: 36px !important;
         line-height: 42px;
     }
     h3 {
-        font-size: 32px;
+        font-size: 32px !important;
         line-height: 40px;
     }
     h4 {
-        font-size: 28px;
+        font-size: 28px !important;
         line-height: 34px;
     }
     h5 {
-        font-size: 24px;
+        font-size: 24px !important;
         line-height: 30px;
     }
     p {
-        font-size: 16px;
+        font-size: 16px !important;
         line-height: 24px;
         padding: 0 10px; /* Adds some side padding for better spacing */
     }
